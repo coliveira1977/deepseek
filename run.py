@@ -12,7 +12,7 @@ def check_dependencies():
     """Verifica se as dependências estão instaladas"""
     try:
         import streamlit
-        import deepseek_ai
+        import requests
         import PyPDF2
         import pandas
         import docx
