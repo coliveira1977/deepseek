@@ -1,0 +1,6 @@
+# Configuração da API DeepSeek
+# Obtenha sua API key em: https://platform.deepseek.com/
+DEEPSEEK_API_KEY=sua_api_key_aqui
+
+# URL base da API (opcional, padrão: https://api.deepseek.com)
+DEEPSEEK_BASE_URL=https://api.deepseek.com
