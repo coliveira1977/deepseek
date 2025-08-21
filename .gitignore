@@ -4,7 +4,7 @@ venv/
 env/
 
 # Arquivos de configuração com dados sensíveis
-env
+.env
 *.env
 
 # Pasta de uploads
